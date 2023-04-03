@@ -15,4 +15,6 @@
 
 我在网上查找到了2021年中国内地各省的出生率数据，以及2020年世界有石油储备的国家的石油储备量，使用了map类型图标进行展示
 
-[作业2链接](https://ChenQianrui.github.io/2021年中国各省出生率.html)
+[作业2链接1](https://ChenQianrui.github.io/2021年中国各省出生率.html)
+
+[作业2链接2](https://ChenQianrui.github.io/2020石油储量.html)
