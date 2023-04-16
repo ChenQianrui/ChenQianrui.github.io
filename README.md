@@ -33,4 +33,4 @@
 
 我使用notepad++以及内嵌css的模式，实现了基于必应搜索引擎的搜索功能，并且利用bootstrap5等网页设计工具设计了搜索引擎界面，绘制了搜索引擎图标。
 
-[作业1链接](https://ChenQianrui.github.io/BiedSearch-搜索引擎模拟.html)
+[作业1链接](https://ChenQianrui.github.io/BirdSearch-搜索引擎模拟.html)
