@@ -31,6 +31,6 @@
 ### 1. 作业1 
 模拟搜索引擎
 
-我使用notepad++以及内嵌css的模式，实现了基于必应搜索引擎的搜索功能，并且利用bootstrap5等网页设计工具设计了搜索引擎界面，绘制了搜索引擎图标。
+我使用notepad++以及内嵌css的模式，实现了基于必应搜索引擎的模拟搜索引擎：BirdSearch，并且利用bootstrap5等网页设计工具设计了搜索引擎界面以及按钮、搜索框等元素，绘制了搜索引擎图标。
 
 [作业1链接](https://ChenQianrui.github.io/BirdSearch-搜索引擎模拟.html)
