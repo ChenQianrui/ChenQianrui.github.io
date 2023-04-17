@@ -36,8 +36,9 @@
 [作业1链接](https://ChenQianrui.github.io/BirdSearch-搜索引擎模拟.html)
 
 ### 2. 作业2
-xxx
+词频分析
 
-xxx
+我选取了一部著作，可以是之前分析词频的作品，分析人物（或其他关键词）“共现”，生成关系图；
+用本次课学到的网页设计技术，设计一个简单的网页，放置关系图和相关说明
 
 [作业2链接](https://ChenQianrui.github.io/xxx)
