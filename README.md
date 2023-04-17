@@ -44,4 +44,4 @@
 用本次课学到的网页设计技术，设计一个简单的网页，放置关系图和相关说明
 
 
-[作业2链接](https://ChenQianrui.github.io/xxx)
+[作业2链接](https://ChenQianrui.github.io/《儒林外史》人物共现分析.html)
