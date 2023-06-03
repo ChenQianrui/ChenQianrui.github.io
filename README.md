@@ -45,3 +45,8 @@
 
 
 [作业2链接](https://ChenQianrui.github.io/《儒林外史》人物共现分析.html)
+
+# 计算机科学与编程入门课程大作业
+## 2210120123 陈芊睿
+
+[大作业链接](https://ChenQianrui.github.io/BirdSearch-搜索引擎模拟.html)
