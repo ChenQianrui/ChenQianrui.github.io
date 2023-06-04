@@ -49,4 +49,5 @@
 # 计算机科学与编程入门课程大作业
 ## 2210120123 陈芊睿
 
-[大作业链接](https://ChenQianrui.github.io/BirdSearch-搜索引擎模拟.html)
+[大作业链接1](https://ChenQianrui.github.io/潜力股两周内收盘价.html)
+[大作业链接2](https://ChenQianrui.github.io/潜力股两周内收盘价.html)
